@@ -1,4 +1,5 @@
 # Twitter-Sentiment-Analysis
+It is a Natural Language Processing Problem where Sentiment Analysis is done by Classifying the Positive tweets from negative tweets by machine learning models for classification, text mining, text analysis, data analysis and data visualization
 
 This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event. It will search for tweets about any topic and analyze each tweet to see how positive or negative it's emotion is. You might want to check out this complete text and video based detailed [tutorial link](http://www.letscodepro.com/Twitter-Sentiment-Analysis/)
 
@@ -43,7 +44,7 @@ Once you have created an app on twitter and installed all the dependencies by ru
 
 ## Authors
 
-Muhammad Ali Zia
+Shreya Shrivastav
 
 ## License
 
